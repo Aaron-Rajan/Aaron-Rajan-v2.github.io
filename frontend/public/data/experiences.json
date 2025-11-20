@@ -1,0 +1,34 @@
+[
+  {
+    "company": "Intact Insurance",
+    "role": "Software Developer – Developer Platforms & DevOps CoE",
+    "location": "Toronto, Ontario",
+    "dates": "Starting September 2025",
+    "description": "Building internal tools and platforms that help teams ship reliable software quickly.",
+    "tech": "Java, Spring Boot, React, Node, Docker, CI/CD"
+  },
+  {
+    "company": "Scotiabank",
+    "role": "Software Engineer Co-op – Global Risk Warehouse",
+    "location": "Toronto, Ontario",
+    "dates": "May 2024 – August 2024",
+    "description": "Developed automation tools and full-stack applications to support team's workflow.",
+    "tech": "Python, Java, Spring, JavaScript, SQL"
+  },
+  {
+    "company": "McMaster University",
+    "role": "Undergraduate Teaching Assistant – ENGINEER 1P13 / 2PX3",
+    "location": "Hamilton, Ontario",
+    "dates": "January 2020 – April 2024",
+    "description": "Led tutorials and helped students with design projects, prototyping and programming.",
+    "tech": "Python, MATLAB, Communication, Mentorship"
+  },
+  {
+    "company": "McMaster University",
+    "role": "Undergraduate Teaching Assistant – ENGINEER 3PX3",
+    "location": "Hamilton, Ontario",
+    "dates": "April 2023 – April 2024",
+    "description": "Led tutorials and helped students with design projects, prototyping and programming.",
+    "tech": "Python, MATLAB, Communication, Mentorship"
+  }
+]
