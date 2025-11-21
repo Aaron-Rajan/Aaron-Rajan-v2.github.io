@@ -1,34 +1,55 @@
-[
-  {
-    "company": "Intact Insurance",
-    "role": "Software Developer – Developer Platforms & DevOps CoE",
-    "location": "Toronto, Ontario",
-    "dates": "Starting September 2025",
-    "description": "Building internal tools and platforms that help teams ship reliable software quickly.",
-    "tech": "Java, Spring Boot, React, Node, Docker, CI/CD"
-  },
-  {
-    "company": "Scotiabank",
-    "role": "Software Engineer Co-op – Global Risk Warehouse",
-    "location": "Toronto, Ontario",
-    "dates": "May 2024 – August 2024",
-    "description": "Developed automation tools and full-stack applications to support team's workflow.",
-    "tech": "Python, Java, Spring, JavaScript, SQL"
-  },
-  {
-    "company": "McMaster University",
-    "role": "Undergraduate Teaching Assistant – ENGINEER 1P13 / 2PX3",
-    "location": "Hamilton, Ontario",
-    "dates": "January 2020 – April 2024",
-    "description": "Led tutorials and helped students with design projects, prototyping and programming.",
-    "tech": "Python, MATLAB, Communication, Mentorship"
-  },
-  {
-    "company": "McMaster University",
-    "role": "Undergraduate Teaching Assistant – ENGINEER 3PX3",
-    "location": "Hamilton, Ontario",
-    "dates": "April 2023 – April 2024",
-    "description": "Led tutorials and helped students with design projects, prototyping and programming.",
-    "tech": "Python, MATLAB, Communication, Mentorship"
-  }
-]
+[ {
+  "id" : 1,
+  "company" : "Scotiabank",
+  "role" : "Software Developer Intern – Global Risk Warehouse",
+  "location" : "Toronto, Ontario",
+  "startDate" : "May 2024",
+  "endDate" : "August 2024",
+  "description" : "Developed automation tools and full-stack applications to support team's workflow.",
+  "tech" : "Python, Java, Spring, JavaScript, SQL"
+}, {
+  "id" : 2,
+  "company" : "Ciena",
+  "role" : "Software Intern – Emebdded Security",
+  "location" : "Ottawa, Ontario",
+  "startDate" : "May 2023",
+  "endDate" : "August 2023",
+  "description" : "Developed and optimized automated test suites for network hardware using Python, C, and Linux tools within a CI/CD pipeline.",
+  "tech" : "Python, C, Linux, YANG"
+}, {
+  "id" : 3,
+  "company" : "Ciena",
+  "role" : "Software Intern – Waveserver Software",
+  "location" : "Ottawa, Ontario",
+  "startDate" : "May 2022",
+  "endDate" : "August 2022",
+  "description" : "Built and optimized automated network test suites using Python, C, YANG, and Linux tools, validating hardware changes and RESTful APIs within the team’s CI/CD pipeline.",
+  "tech" : "Python, C, Linux, YANG"
+}, {
+  "id" : 4,
+  "company" : "McMaster University",
+  "role" : "Undergraduate Teaching Assistant – ENGINEER 1P13",
+  "location" : "Hamilton, Ontario",
+  "startDate" : "Jan 2022",
+  "endDate" : "April 2024",
+  "description" : "Led tutorials and helped students with design projects, prototyping and programming.",
+  "tech" : "Python, MATLAB, Communication, Mentorship"
+}, {
+  "id" : 5,
+  "company" : "McMaster University",
+  "role" : "Undergraduate Teaching Assistant – ENGINEER 3PX3",
+  "location" : "Hamilton, Ontario",
+  "startDate" : "Jan 2023",
+  "endDate" : "April 2024",
+  "description" : "Led tutorials and helped students with design projects, prototyping and programming.",
+  "tech" : "Python, MATLAB, Communication, Mentorship"
+}, {
+  "id" : 6,
+  "company" : "McMaster University",
+  "role" : "TEST",
+  "location" : "Hamilton, Ontario",
+  "startDate" : "Jan 2023",
+  "endDate" : "April 2024",
+  "description" : "Led tutorials and helped students with design projects, prototyping and programming.",
+  "tech" : "Python, MATLAB, Communication, Mentorship"
+} ]
