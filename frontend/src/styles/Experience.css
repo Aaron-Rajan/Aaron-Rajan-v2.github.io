@@ -172,6 +172,35 @@
 }
 
 /* =========================
+   EXPERIENCE CARD LINK ICON
+   ========================= */
+
+.exp-links {
+  margin-top: 0.9rem;
+  display: flex;
+  justify-content: center;
+}
+
+.exp-links a {
+  font-size: 1.1rem;            /* similar size to project icons */
+  color: #fff;
+  display: inline-block;
+}
+
+.exp-links a:hover {
+  animation: spin-exp-link 1.5s both infinite linear;
+}
+
+@keyframes spin-exp-link {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* =========================
    RESPONSIVE
    ========================= */
 

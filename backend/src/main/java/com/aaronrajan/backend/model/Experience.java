@@ -18,4 +18,5 @@ public class Experience {
     private String endDate;
     private String description;
     private String tech;
+    private String link;
 }
